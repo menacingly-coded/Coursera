@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 console.log("connected to");
-mongoose.connect("mongodb+srv://shreya0987edu:<password>@cluster0.2raftwq.mongodb.net/coursera-app");
+mongoose.connect("mongodb+srv://shreya0987edu:5nxsbQphHo9hefhk@cluster0.2raftwq.mongodb.net/coursera-app");
 const Schema = mongoose.Schema;
 const ObjectId = mongoose.Types.ObjectId;
 
